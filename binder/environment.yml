@@ -5,6 +5,4 @@ dependencies:
   - python
   - scipy
   - numpy
-  - decimal
   - matplotlib
-  - warnings
