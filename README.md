@@ -1,6 +1,6 @@
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/niksterg/pyTOV/master)
 
-[render in Nbviewer](http://nbviewer.jupyter.org/github/niksterg/pyTOV/blob/master/TOV-polytropes.ipynb)
+[(view in Nbviewer)](http://nbviewer.jupyter.org/github/niksterg/pyTOV/blob/master/TOV-polytropes.ipynb)
 
 #### pyTOV Notebooks by N. Stergioulas on Tolman-Oppenheimer-Volkoff solutions
 
