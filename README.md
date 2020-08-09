@@ -1,5 +1,5 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/niksterg/pyTOV/master) [![Nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](http://nbviewer.jupyter.org/github/niksterg/pyTOV/blob/master/TOV-polytropes.ipynb?flush_cache=true)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/niksterg/pyTOV/master)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/niksterg/pyTOV/blob/master/TOV-polytropes.ipynb)
 
 #### pyTOV Notebooks by N. Stergioulas on Tolman-Oppenheimer-Volkoff solutions
 
